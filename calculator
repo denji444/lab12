@@ -1,2 +1,5 @@
 Muhammad Bilal Saleem
 23-SET-016
+
+//Addition 
+cout<<"the sum of two numbers are: "<<a+b;
