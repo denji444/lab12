@@ -3,3 +3,6 @@ Muhammad Bilal Saleem
 
 //Addition 
 cout<<"the sum of two numbers are: "<<a+b;
+
+//subtraction 
+cout<<"the difference of two numbers are: "<<a-b;
